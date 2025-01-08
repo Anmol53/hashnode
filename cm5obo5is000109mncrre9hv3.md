@@ -1,7 +1,7 @@
 ---
 title: "Apache Kafka Brief Board"
 seoTitle: "Master Apache Kafka: Key Concepts, Features, and Best Practices for Yo"
-seoDescription: "Quickly refresh your understanding of Apache Kafka with this concise guide. Learn about Kafka's architecture, core components, features, use cases, and key "
+seoDescription: "Refresh your Apache Kafka knowledge with this concise guide. Covering architecture, components, features, and commands to help you ace your interview."
 datePublished: Wed Jan 08 2025 19:58:32 GMT+0000 (Coordinated Universal Time)
 cuid: cm5obo5is000109mncrre9hv3
 slug: kafka
