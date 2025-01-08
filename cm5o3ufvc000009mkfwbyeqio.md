@@ -1,10 +1,11 @@
 ---
 title: "React.js Conceptual Questions"
 seoTitle: "React.js Technical Questions for Interviews (Updated for 2025)"
-seoDescription: "Prepare for your next React.js interview with these 20 essential conceptual questions. Covering key topics like hooks, lifecycle methods, state management, "
+seoDescription: "Prepare for your next React.js interview with these 20 essential conceptual questions. Covering key topics like hooks, lifecycle methods, state management,"
 datePublished: Wed Jan 08 2025 16:19:29 GMT+0000 (Coordinated Universal Time)
 cuid: cm5o3ufvc000009mkfwbyeqio
-slug: reactjs-conceptual-questions
+slug: reactjs
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736367911006/e472d825-c5b2-45e1-96af-cacd087c727a.png
 tags: interview, reactjs, interview-questions
 
 ---
